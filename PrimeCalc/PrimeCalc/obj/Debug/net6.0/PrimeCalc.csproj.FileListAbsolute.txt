@@ -1,0 +1,15 @@
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\bin\Debug\net6.0\PrimeCalc.exe
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\bin\Debug\net6.0\PrimeCalc.deps.json
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\bin\Debug\net6.0\PrimeCalc.runtimeconfig.json
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\bin\Debug\net6.0\PrimeCalc.dll
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\bin\Debug\net6.0\ref\PrimeCalc.dll
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\bin\Debug\net6.0\PrimeCalc.pdb
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\obj\Debug\net6.0\PrimeCalc.csproj.AssemblyReference.cache
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\obj\Debug\net6.0\PrimeCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\obj\Debug\net6.0\PrimeCalc.AssemblyInfoInputs.cache
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\obj\Debug\net6.0\PrimeCalc.AssemblyInfo.cs
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\obj\Debug\net6.0\PrimeCalc.csproj.CoreCompileInputs.cache
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\obj\Debug\net6.0\PrimeCalc.dll
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\obj\Debug\net6.0\ref\PrimeCalc.dll
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\obj\Debug\net6.0\PrimeCalc.pdb
+C:\Users\liorm\source\repos\PrimeCalc\PrimeCalc\obj\Debug\net6.0\PrimeCalc.genruntimeconfig.cache
